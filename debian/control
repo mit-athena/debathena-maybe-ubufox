@@ -2,8 +2,8 @@ Source: debathena-maybe-ubufox
 Section: debathena/web
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@
-Standards-Version: 3.8.0
+Build-Depends: cdbs, debhelper, dh-buildinfo
+Standards-Version: 3.9.3
 
 Package: debathena-maybe-ubufox
 Architecture: all
