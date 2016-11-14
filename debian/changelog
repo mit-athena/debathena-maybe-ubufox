@@ -8,6 +8,7 @@ debathena-maybe-ubufox (1.1) UNRELEASED; urgency=low
 
   [ Anders Kaseorg ]
   * Switch to source format 3.0 (native).
+  * Add debian/gbp.conf.
 
  -- Jonathan Reed <jdreed@mit.edu>  Wed, 03 Apr 2013 13:40:12 -0400
 
